@@ -1,3 +1,5 @@
+#Nomes: Bruno Avelino Tomin(Representante), Esther Ramos Macedo
+#RM: 565037, 566197
 #GS
 #Criação da varíavel de quantidade de desastres
 n_desastres = int(input('Digite a quantidade desastres: '))
